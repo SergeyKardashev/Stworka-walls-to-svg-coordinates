@@ -2,6 +2,8 @@
 
 ## Выполненная демка
 
+![image that illustrates how to update points coordinate](./cover_image.jpg)
+
 [Страница](https://sergeykardashev.github.io/Stworka-walls-to-svg-coordinates/) на gh-pages, куда выгружается полигон, построенный по данным.
 
 Изначально на странице расположен рандомный полигон (треугольник), но после того, как загрузится скрипт, рандомный полигон будет заменен на построенный по точкам из задания.
