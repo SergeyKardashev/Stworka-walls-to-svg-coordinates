@@ -1,0 +1,15 @@
+body {
+  background: gray;
+}
+
+#svg-canvas {
+  background: lightblue;
+  width: 300px;
+  height: 300px;
+}
+
+#svg-polygon {
+  fill: wheat;
+  stroke: coral;
+  stroke-width: 10;
+}
